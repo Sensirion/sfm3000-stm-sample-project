@@ -5,7 +5,7 @@ This uVision sample project shows the basic usage of Sensirion's Mass Flow Meter
 ## Compatibility
 The code herein is compatible with Sensirion's SFM3000 Mass Flow Meter.
 
-* Sensirion SFM3000 Sensor
+* Sensirion SFM3000, SFM3200, SFM3300 and SFM3400 Sensor
 * STM32 Discovery board (STM32VLDISCOVERY)
 * uVision (5.25)
 
